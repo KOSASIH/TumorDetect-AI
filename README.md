@@ -29,7 +29,7 @@ TumorDetect AI leverages a TensorFlow-based deep learning Convolutional Neural N
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/TumorDetect.git
+   git clone https://github.com/KOSASIH/TumorDetect.git
    cd TumorDetect
    ```
 
